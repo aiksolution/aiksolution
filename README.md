@@ -4,18 +4,37 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Asad Islam </h1>
-<h3 align="center">Full Stack PHP Developer | Larvel,CodeIgniter,Vue,Rest-APIs, JS Freamework  Specialist | Data Systems Architect</h3>
+<h3 align="center">Full Stack PHP Developer | Larvel,CodeIgniter,Vue,Rest-APIs, JS Freamework  Specialist | Data Systems Architect | Data Platforms | M&E Systems | Digital Governance</h3>
+
+📍 Pakistan  
+
+---
+## 👨‍💻 About Me
+
+I am an MIS / IT / Monitoring & Evaluation (M&E) Expert with 13+ years of experience in designing and implementing:
+
+- Scalable Management Information Systems (MIS)
+- Data-driven dashboards & decision support systems
+- Monitoring & Evaluation frameworks for NGOs & public sector
+- Enterprise-grade web applications (PHP, MySQL, REST APIs)
+
+I have worked across sectors including:
+**Health, Nutrition, Food Security, Governance, and Development Programs**  
+with organizations such as INGOs, public sector institutions, and private companies.
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 What I Specialize In
 
-- 🔭 I’m currently working on **MIS, Survey Systems & Data Dashboards**
-- 🌱 Learning **Advanced System Architecture & Android Development**
-- 🧠 Strong expertise in **PHP (CodeIgniter 3), MySQL, REST APIs**
-- 📊 Passionate about **data-driven applications & real-world solutions**
-- 🚀 Building scalable systems for NGOs, businesses & automation workflows
-- 💡 Turning ideas into **working software products**
+- System Architecture & Design
+- Data Engineering for MIS Systems
+- Monitoring & Evaluation (M&E) Tools
+- API-based Data Integration
+- Dashboarding & Reporting Systems
+- Large-scale Data Collection Systems
+- Building scalable systems for NGOs, businesses & automation workflows
+- Business Process Digitization
+- Turning ideas into **working software products**
 
 ---
 
@@ -43,7 +62,48 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
+## 📊 Key Projects
 
+### 🔹 Digital Dashboard Systems
+- Developed real-time dashboards for program monitoring and decision-making.
+
+### 🔹 MIS for Health & Nutrition Programs
+- Designed systems for large-scale data collection, validation, and reporting.
+
+### 🔹 Food Security & Governance Portals
+- Built platforms supporting national-level development initiatives.
+
+### 🔹 PCP Certification Management System
+- Automated workflows and reporting for certification processes.
+
+---
+
+## 🏗️ Current Focus
+
+- Building scalable **data platforms & SaaS systems**
+- Designing **village-level digital governance systems**
+- Integrating **WhatsApp Bots + APIs + MIS**
+- Transitioning towards **modern data architectures (Python, FastAPI, Big Data)**
+
+---
+
+## 🤝 Open to Collaborate On
+
+- Data Platforms / MIS Systems
+- NGO / GovTech Digital Solutions
+- SaaS Platforms for Emerging Markets
+- API-first System Design
+
+---
+
+## 📈 Professional Strengths
+
+- Strong systems thinking & architecture design
+- Ability to translate business needs into technical systems
+- Experience working with stakeholders, NGOs & government bodies
+- Team leadership & capacity building
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
