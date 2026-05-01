@@ -154,46 +154,13 @@ with organizations such as INGOs, public sector institutions, and private compan
 ---
 
 ## 🌐 Connect With Me
-## 📊 Key Projects
+If you're working on:
+- Digital Governance  
+- Data Platforms  
+- MIS Systems  
 
-### 🔹 Digital Dashboard Systems
-- Developed real-time dashboards for program monitoring and decision-making.
+Feel free to reach out or collaborate.
 
-### 🔹 MIS for Health & Nutrition Programs
-- Designed systems for large-scale data collection, validation, and reporting.
-
-### 🔹 Food Security & Governance Portals
-- Built platforms supporting national-level development initiatives.
-
-### 🔹 PCP Certification Management System
-- Automated workflows and reporting for certification processes.
-
----
-
-## 🏗️ Current Focus
-
-- Building scalable **data platforms & SaaS systems**
-- Designing **village-level digital governance systems**
-- Integrating **WhatsApp Bots + APIs + MIS**
-- Transitioning towards **modern data architectures (Python, FastAPI, Big Data)**
-
----
-
-## 🤝 Open to Collaborate On
-
-- Data Platforms / MIS Systems
-- NGO / GovTech Digital Solutions
-- SaaS Platforms for Emerging Markets
-- API-first System Design
-
----
-
-## 📈 Professional Strengths
-
-- Strong systems thinking & architecture design
-- Ability to translate business needs into technical systems
-- Experience working with stakeholders, NGOs & government bodies
-- Team leadership & capacity building
 <p align="center">
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
